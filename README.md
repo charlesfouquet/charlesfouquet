@@ -10,13 +10,18 @@ Je suis Charles, CDA en devenir avec une grande soif d'apprendre et de découvri
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-<h3>Mon activité sur GitHub</h3>
+<h3 align="center">Mon activité sur GitHub</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesfouquet&hide=prs,stars&theme=vue&bg_color=00000000)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlesfouquet&hide=prs,stars&theme=vue&bg_color=00000000&hide_border" />
+</p>
 
-<h3>Les langages que j'utilise</h3>
+<h3 align="center">Les langages que j'utilise</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesfouquet&layout=compact&theme=vue&bg_color=00000000"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesfouquet&layout=compact&theme=vue&bg_color=00000000"/>
-
-<img src="https://streak-stats.demolab.com?user=charlesfouquet&theme=vue&bg_color=00000000&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly"/>
-
+<h3 align="center">Mes contributions</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=charlesfouquet&theme=vue&bg_color=00000000&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly"/>
+</p>
