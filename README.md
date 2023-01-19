@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Bienvenue sur mon profil GitHub !
+
 Je suis Charles, CDA en devenir avec une grande soif d'apprendre et de découvrir de nouvelles technologies !
 
 - 🌱 Actuellement en formation à l'AFPA pour devenir Concepteur Développeur d'Applications (CDA) en Octobre 2023
