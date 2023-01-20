@@ -1,6 +1,8 @@
 ### Hello there! 👋
 
-Bienvenue sur mon profil GitHub !
+<img align="center" src="https://i.imgur.com/dc5z8cQ.png"/>
+
+<h3>Bienvenue sur mon profil GitHub !</h3>
 
 Je suis Charles, CDA en devenir avec une grande soif d'apprendre et de découvrir de nouvelles technologies !
 
