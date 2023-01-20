@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/dc5z8cQ.png"/>
+<img align="center" src="https://i.imgur.com/kBlZeWW.png"/>
 
 <h3>Bienvenue sur mon profil GitHub !</h3>
 
