@@ -20,5 +20,5 @@ Je suis Charles, CDA en devenir avec une grande soif d'apprendre et de découvri
 
 <h3 align="center">Mes contributions</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=charlesfouquet&theme=vue&background=00000000&text_color=017A00&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly"/>
+  <img src="https://streak-stats.demolab.com?user=charlesfouquet&theme=vue&background=00000000&dates=017A00&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly"/>
 </p>
