@@ -1,5 +1,3 @@
-### Hello there! 👋
-
 <img align="center" src="https://i.imgur.com/dc5z8cQ.png"/>
 
 <h3>Bienvenue sur mon profil GitHub !</h3>
