@@ -10,7 +10,7 @@ Je suis Charles, CDA en devenir avec une grande soif d'apprendre et de découvri
 <h3 align="center">Mon activité sur GitHub</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlesfouquet&hide=prs,stars&theme=vue&bg_color=FFFFFF70&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlesfouquet&hide=prs,stars&theme=vue&bg_color=FFFFFF70&hide_border=true&title_color=86C453&show_icons=true&text_color=6FA245&locale=fr"/>
 </p>
 
 <h3 align="center">Les langages que j'utilise</h3>
