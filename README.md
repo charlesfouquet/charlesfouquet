@@ -15,7 +15,7 @@ Je suis Charles, CDA en devenir avec une grande soif d'apprendre et de découvri
 
 <h3 align="center">Les langages que j'utilise</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesfouquet&layout=compact&theme=vue&bg_color=00000070&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesfouquet&layout=compact&theme=vue&bg_color=FFFFFF70&hide_border=true"/>
 </p>
 
 <h3 align="center">Mes contributions</h3>
