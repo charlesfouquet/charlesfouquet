@@ -1,5 +1,9 @@
 <img align="center" src="https://i.imgur.com/OvyIhNg.png"/>
 
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fcharlesfouquet"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharlesfouquet&label=Page%20hits&labelColor=%23eeeeee&countColor=%2386c453" /></a>
+</p>
+  
 <h3>Bienvenue sur mon profil GitHub !</h3>
 
 Je suis Charles, CDA en devenir avec une grande soif d'apprendre et de découvrir de nouvelles technologies !
