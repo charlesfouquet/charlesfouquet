@@ -15,6 +15,7 @@ Je suis Charles, CDA en devenir avec une grande soif d'apprendre et de découvri
 
 <p align="center">
   <img src="https://github-readme-stats-charlesfouquet.vercel.app/api?username=charlesfouquet&hide=stars&theme=vue&bg_color=00000000&hide_border=true&hide_title=true&title_color=86C453&icon_color=86C453&show_icons=true&text_color=6FA245&locale=fr&card_width=500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=charlesfouquet&hide=stars&theme=vue&bg_color=00000000&hide_border=true&hide_title=true&title_color=86C453&icon_color=86C453&show_icons=true&text_color=6FA245&locale=fr&card_width=500"/>
   <br>
   <img src="https://streak-stats.demolab.com?user=charlesfouquet&theme=vue&background=00000000&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&currStreakNum=86C453&sideLabels=6FA245&dates=598137&ring=86C453&sideNums=6FA245&currStreakLabel=6FA245&fire=97DD5E&locale=fr&card_width=600"/>
   <br>
